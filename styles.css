@@ -1,0 +1,28 @@
+canvas {
+  border-radius: 12px;
+  border-style: solid;
+  float: left;
+}
+button {
+  padding: 5px;
+  margin-left: 120px;
+  height: 150px;
+  margin-top:30px;
+  width: 200px;
+}
+.about{
+  float: left;
+  padding: 5px;
+  margin-top: 70px;
+  text-align: left;
+}
+h2{
+  font-size: 30px;
+}
+#ans{
+  display: inline-block;
+  margin-left: 200px;
+  font-size: 100px;
+  margin-top: 15px;
+  color: rgb(60,255,255);
+}
